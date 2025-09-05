@@ -1,2 +1,2 @@
 # Whatsappclone
-Creating a superversion of the whtasapp clone using mern stack
+Creating a superversion of the whatsapp clone using mern stack
